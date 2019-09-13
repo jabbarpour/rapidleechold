@@ -6,7 +6,7 @@ if (!defined('RAPIDLEECH')) {
 
 $options = array (
   'secretkey' => '5NkBB+ycvyY1kl9h/y+5hFeiSRCpSmEM5I/rP4uKZnO+/uL2YsA13m9P',
-  'download_dir' => 'D:\Tutorials\Temp',
+  'download_dir' => 'files/',
   'download_dir_is_changeable' => false,
   'delete_delay' => 0,
   'rename_prefix' => '',
